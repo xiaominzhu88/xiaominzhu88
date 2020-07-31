@@ -31,4 +31,4 @@ Universität für Musik und Darstellende Kunst Wien
 
 Twitter: https://twitter.com/Zhu23592976
 
-LinkedIn: https://www.linkedin.com/in/xiaomin-zhu-79462815/
+LinkedIn: https://www.linkedin.com/in/xiaominzhu/
