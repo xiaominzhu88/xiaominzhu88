@@ -20,7 +20,7 @@ Universität für Musik und Darstellende Kunst Wien
 
 ### CURRENT
 
-- 🌱  I’m keep learning JavaScript, Css, Html, React, Next.js, PostgresQL ... anything about Web Development
+- 🌱  I’m keep learning React, JavaScript, Css, Html, Next.js, SQL ... anything about Web Development
 - ⚡  Fun fact: I love exploring the natural beauty of our planet through bike rides along the coastline of the ocean or visiting the world’s most fascinating cities. Since childhood, I have cared deeply about animals. This has allowed me to develop a passion for the power of empathic communication and caring for others. I also have to admit, I am obsessed with pizza (one slice at a time).
 - 📫  How to reach me: xiaomin.zhu88@gmail.com
 
