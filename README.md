@@ -2,11 +2,11 @@
 
 ### ABOUT ME
 
-- I am a frontend web developer with a love for great products and simplicity. As a passionate learner about web technologies and software in general, I always strive to improve my ability. 🎈
+- I am a web developer (frontend mostly) with a love for great products and simplicity. As a passionate learner about web technologies and software in general, I always strive to improve my ability. 🎈
 
-- Over the years, I have become an achievement-driven team player with a strong sense for aesthetics and the latest trends. Comfortable in fast-paced startup environments as well as established corporate structures.🍄
+- Over the years, I have become an achievement-driven team player with a strong sense for aesthetics and the latest trends. Comfortable in fast-paced startup environments as well as established corporate structures. 🍄
 
-- As a tech enthusiast, I believe in utilizing comprehensive analytics and a deep understanding of the customer’s emotions to create impactful and vibrant products.⭐️
+- As a tech enthusiast, I believe in utilizing comprehensive analytics and a deep understanding of the customer’s emotions to create impactful and vibrant products. ⭐️
 
 
 <hr />
